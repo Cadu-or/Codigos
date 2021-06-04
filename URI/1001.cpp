@@ -1,7 +1,6 @@
-#include <iostream>
-
 /* Problem: 1001 - Extremely Basic */
 
+#include <iostream>
 using namespace std;
 
 int main(){
