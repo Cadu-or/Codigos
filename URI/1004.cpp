@@ -1,4 +1,4 @@
-/* 1004 - Simple Product */
+/* Problem: 1004 - Simple Product */
 
 #include <iostream>
 
